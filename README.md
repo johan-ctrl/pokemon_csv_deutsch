@@ -3,3 +3,5 @@ Beim Herumspielen mit Python, Numpy, Pandas oder anderen Data Science-Tool ist e
 Grundlage ist die csv, die hier [hier](https://gist.github.com/armgilles/194bcff35001e7eb53a2a8b441e8b2c6) zu finden ist.
 Für die deutschen Namen habe ich [diese Liste](https://pokewiki.de/Pok%C3%A9mon-Liste) mit dem Tool [Web Scraper](https://www.webscraper.io/) exportiert und in einer csv gespeichert.
 Anschließend habe ich die beiden csv gemerget und gesäubert.
+
+Es gibt ein dokumentierendes Jupyter Notebook.
